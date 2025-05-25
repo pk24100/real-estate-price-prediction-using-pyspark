@@ -44,12 +44,12 @@ The Gradient Boosted Tree (GBT) Regression showed the best performance with:
 - Plotly
 
 ## 👥 Collaborators
-| Name | Role | GitHub |
+| Name | GitHub |
 |------|------|--------|
 | Prajwal  | [@pk24100](https://github.com/pk24100) |
-| John |  [@abc](https://github.com/abc) |
-| Sarah | ML Engineer | [@sarah](https://github.com/sarah) |
-| Mike | Data Analyst | [@mike](https://github.com/mike) |
+| John | [@abc](https://github.com/abc) |
+| Sarah | [@sarah](https://github.com/sarah) |
+| Mike |  [@mike](https://github.com/mike) |
 
 ## 📝 License
 This project is licensed under the Creative Commons BY-NC 4.0 - see the [LICENSE](LICENSE) file for details.
