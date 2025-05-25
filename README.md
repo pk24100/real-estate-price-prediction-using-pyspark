@@ -52,7 +52,7 @@ The Gradient Boosted Tree (GBT) Regression showed the best performance with:
 | Mike |  [@mike](https://github.com/mike) |
 
 ## 📝 License
-This project is licensed under the Creative Commons BY-NC 4.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons BY-NC 4.0 - see the [LICENSE](LICENSE.txt) file for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
