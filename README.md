@@ -45,7 +45,7 @@ The Gradient Boosted Tree (GBT) Regression showed the best performance with:
 
 ## 👥 Collaborators
 | Name | GitHub |
-|------|------|--------|
+|------|-----------|
 | Prajwal  | [@pk24100](https://github.com/pk24100) |
 | John | [@abc](https://github.com/abc) |
 | Sarah | [@sarah](https://github.com/sarah) |
