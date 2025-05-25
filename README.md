@@ -43,6 +43,12 @@ The Gradient Boosted Tree (GBT) Regression showed the best performance with:
 - Seaborn
 - Plotly
 
+### Research Paper of the Project
+📑 **"Real Estate Price Prediction Using PySpark MLlib"**
+ - Published in: 2024 IEEE International Conference on Smart Power Control and Renewable Energy (ICSPCRE)
+ - DOI - https://doi.org/10.1109/ICSPCRE62303.2024.10675142
+
+     
 ## 👥 Collaborators
 | Name | GitHub |
 |------|-----------|
